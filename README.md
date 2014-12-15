@@ -1,6 +1,3 @@
 firstgit
 ========
 
-Testing
-dfsdfdsf
-sdfdsf
